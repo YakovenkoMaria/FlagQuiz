@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Угадай флаг (Flag Quiz)</string>
+    <string name="action_settings">Настройки</string>
+    <string name="number_of_choices">Количество вариантов ответа</string>
+    <string name="number_of_choices_description">Выберите 2, 4, 6, 8 кнопок для ответа</string>
+    <string name="world_regions">Регионы мира</string>
+    <string name="world_regions_description">Выбранные регионы будут включены в викторину</string>
+    <string name="guess_country">Варианты ответа</string>
+    <string name="results">%1$d выборов, %2$.02f%% правильных ответов</string>
+    <string name="incorrect_answer">Неверно!</string>
+    <string name="default_region_message">
+        Необходимо выбрать хотя бы один регион. Регион по умолчанию: Европа.
+    </string>
+    <string name="restarting_quiz">Викторина будет перезапущена с вашими новыми настройками</string>
+    <string name="question">Вопрос %1$d из %2$d</string>
+    <string name="reset_quiz">Сбросить викторину</string>
+    <string name="image_description">Изображение текущего флага в викторине</string>
+    <string name="default_region">Европа</string>
+    <string name="title_activity_settings">Настройки</string>
+</resources>
